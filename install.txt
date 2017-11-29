@@ -1,3 +1,0 @@
-ghc --make Main -threaded
-run as `./Main +RTS -N[x]`, where [x] - number of cores of your CPU
-это необязательно, но даёт производительности. Можно запускать просто ./Main

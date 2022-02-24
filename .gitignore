@@ -3,3 +3,4 @@ Main
 *.o
 *.tar.gz
 .*.swp
+dist-newstyle/
